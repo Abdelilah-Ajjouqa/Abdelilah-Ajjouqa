@@ -1,21 +1,20 @@
-# Hi there, I'm Abdelilah Ajjouqa 👋
+# Hi there, I'm Abdelilah Ajjouqa
 
-## 💫 About Me
+##  About Me
 
-I'm a **Full Stack Developer** focused on building modern, scalable web applications with **JavaScript and TypeScript**.
+I'm a Full Stack Developer focused on building modern, scalable web applications with **TypeScript** and mobile applications with **Flutter**.
 
-I completed my **Full Stack Web Development** training at **YOUCODE - UM6P** (Sep 2024 - Apr 2026), where I worked across frontend, backend, databases, APIs, authentication, and collaborative development workflows.
+-  Full Stack JavaScript / TypeScript Developer
+-  Building applications Mobile with React native, and Flutter
+-  Building modern interfaces with React and Next.js
+-  Backend development with Node.js, Express.js, and NestJS
+-  Working with PostgreSQL, MongoDB, and MySQL
+-  Using Docker for development environments
+-  Experience with REST APIs, JWT authentication, and role-based access
+-  Always improving code quality, architecture, and developer experience
+-  Based in Morocco
 
-- 💻 Full Stack JavaScript / TypeScript Developer
-- ⚛️ Building modern interfaces with React and Next.js
-- 🧠 Backend development with Node.js, Express.js, and NestJS
-- 🗄️ Working with PostgreSQL, MongoDB, and MySQL
-- 🐳 Using Docker for development environments
-- 🔐 Experience with REST APIs, JWT authentication, and role-based access
-- 🚀 Always improving code quality, architecture, and developer experience
-- 🌍 Based in Morocco
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +32,15 @@ I completed my **Full Stack Web Development** training at **YOUCODE - UM6P** (Se
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Database
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend Services & Databases
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,13 +53,13 @@ I completed my **Full Stack Web Development** training at **YOUCODE - UM6P** (Se
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelilah-ajjouqa&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelilah-ajjouqa&layout=compact&theme=radical)
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelilah-ajjouqa-17b9502a7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.abdelilahajjouqa.me)
@@ -60,7 +67,7 @@ I completed my **Full Stack Web Development** training at **YOUCODE - UM6P** (Se
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bimo01/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212775398853)
 
-## 🎓 Education
+##  Education
 
 **YOUCODE - UM6P**  
 Full Stack Web Development | Sep 2024 - Apr 2026
@@ -68,7 +75,7 @@ Full Stack Web Development | Sep 2024 - Apr 2026
 **Baccalauréat**  
 Physical Sciences | 2022 - 2023
 
-## 💬 Languages
+##  Languages
 
 - 🇲🇦 Arabic (Native)
 - 🇬🇧 English (B2)
@@ -76,6 +83,6 @@ Physical Sciences | 2022 - 2023
 
 ---
 
-💡 *"Constantly learning, building, and creating impactful digital experiences"*
+ *"Constantly learning, building, and creating impactful digital experiences"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelilah-ajjouqa&color=blueviolet)
