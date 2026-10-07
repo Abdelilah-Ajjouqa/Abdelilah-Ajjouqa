@@ -2,13 +2,18 @@
 
 ## 💫 About Me
 
-I'm a **Full Stack Developer** passionate about building innovative web applications and creating seamless user experiences. Currently pursuing my Full Stack Development journey at **YOUCODE - UM6P** (Sep 2024 - April 2026).
+I'm a **Full Stack Developer** focused on building modern, scalable web applications with **JavaScript and TypeScript**.
 
-- 🔭 I'm currently working on **NutriTrack** - a web app for nutritional tracking with AI-powered food recognition
-- 🌱 I'm constantly learning and exploring new technologies in web development
-- 💡 I love creating impactful solutions that enhance user experience
-- 📚 Passionate about personal development, cooking, and discovering new experiences
-- 🌍 Based in Casablanca, Morocco
+I completed my **Full Stack Web Development** training at **YOUCODE - UM6P** (Sep 2024 - Apr 2026), where I worked across frontend, backend, databases, APIs, authentication, and collaborative development workflows.
+
+- 💻 Full Stack JavaScript / TypeScript Developer
+- ⚛️ Building modern interfaces with React and Next.js
+- 🧠 Backend development with Node.js, Express.js, and NestJS
+- 🗄️ Working with PostgreSQL, MongoDB, and MySQL
+- 🐳 Using Docker for development environments
+- 🔐 Experience with REST APIs, JWT authentication, and role-based access
+- 🚀 Always improving code quality, architecture, and developer experience
+- 🌍 Based in Morocco
 
 ## 🛠️ Tech Stack
 
@@ -16,44 +21,30 @@ I'm a **Full Stack Developer** passionate about building innovative web applicat
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Methodologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-## 🚀 Featured Projects
-
-### 🌟 NutriTrack (September 2025)
-A comprehensive web application for nutritional tracking with AI-powered food recognition.
-- **Features:** Personalized recommendations, intelligent food recognition, health progress tracking
-- **Tech Stack:** Node.js, Express.js, EJS, Tailwind CSS, PostgreSQL, Jira
-
-### 📸 Impact Platform (April 2025)
-An innovative platform dedicated to photo and video sharing with enhanced community dynamics.
-- **Tech Stack:** Laravel, Blade, Tailwind CSS, JavaScript, MySQL, Jira
-
-### 🏨 Markoub.ma (May 2025 - July 2025) - Full Stack Developer Internship
-- Replicated Pullman.ma homepage using Next.js 15, React, TypeScript, and ShadCN UI
-- Developed complete booking journey with payment integration
-- Integrated partner APIs inspired by TransGhazala.ma UX
 
 ## 📊 GitHub Stats
 
@@ -72,7 +63,7 @@ An innovative platform dedicated to photo and video sharing with enhanced commun
 ## 🎓 Education
 
 **YOUCODE - UM6P**  
-Full Stack Web Development | Sep 2024 - April 2026
+Full Stack Web Development | Sep 2024 - Apr 2026
 
 **Baccalauréat**  
 Physical Sciences | 2022 - 2023
